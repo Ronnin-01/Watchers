@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "498480895542",
+    "project_id": "watchers-7334b",
+    "storage_bucket": "watchers-7334b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498480895542:android:b9c604367707c423412a97",
+        "android_client_info": {
+          "package_name": "com.bldsht.watchers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5lqoscAxeSgTFn3C0aomxH8dBuBCdFpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
