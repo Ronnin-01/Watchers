@@ -55,5 +55,6 @@ dependencies {
     implementation(libs.glide)
     implementation("com.github.ismaeldivita:chip-navigation-bar:1.4.0")
     implementation("com.github.Dimezis:BlurView:version-2.0.3")
+    implementation ("com.google.firebase:firebase-database:21.0.0")
 
 }
